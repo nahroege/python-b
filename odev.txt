@@ -1,0 +1,16 @@
+Kurs
+ - adi
+ - egitmen (Egitmen Nesnesi)
+ - dersSaati
+ - katilimcilar (Liste ve elemanları Katılımcı Nesnesinden)
+ - bina
+ - egitmenDegistir(egitmen) [METOT]
+ - katilimciEkle(katilimci) [METOT]
+ - katilimciListele() [METOT]
+
+Eğitmen
+ - adi
+ - tecrube
+
+Katılımcı
+ - adi
